@@ -1,0 +1,8 @@
+[package]
+name = "audio-recorder"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+record-audio = "0.1.1"
+slint = "1.8.0"
