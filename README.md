@@ -1,4 +1,4 @@
-# 🎙️ Recordian
+# 🎙️ Recordian (Work in progress)
 
 **Recordian** is an easy-to-use audio recording application, designed with simplicity and functionality in mind. Built with Rust and Slint, it provides a straightforward UI for recording, saving, and managing audio clips with a focus on speed and usability.
 
